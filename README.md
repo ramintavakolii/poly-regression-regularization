@@ -19,7 +19,7 @@ This project implements polynomial regression with regularization using Python. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/poly-regression-regularization.git
+    git clone https://github.com/ramintavakolii/poly-regression-regularization.git
     cd poly-regression-regularization
     ```
 
@@ -53,7 +53,7 @@ The script generates polynomial data and fits polynomial regression models with 
 ![Original Data](images/data.png)
 
 #### Model Fitting with Different Regularization Parameters
-![Model Fitting](images/fit_deg_17.png)
+![Model Fitting](images/fit_deg.png)
 
 #### Training and Testing Error
 ![Training and Testing Error](images/train_test_error.png)
