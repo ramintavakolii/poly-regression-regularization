@@ -68,7 +68,7 @@ The script generates polynomial data and fits polynomial regression models with 
 
 #### Logarithm of Training and Testing Error
 <p align="center">
-  <img src="images/test_train_split.png" alt="Training and Testing Split" width="500"/>
+  <img src="images/train_test_error_log.png" alt="Training and Testing Split" width="500"/>
 </p>
 
 ## License
