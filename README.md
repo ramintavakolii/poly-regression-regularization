@@ -55,8 +55,8 @@ The script generates polynomial data and fits polynomial regression models with 
 #### Model Fitting with Different Regularization Parameters
 ![Model Fitting](images/fit_deg.png)
 
-#### Training and Testing Error
-![Training and Testing Error](images/train_test_error.png)
+####  error vs regularization parameter
+![Training and Testing Error](images/error_vs_reg_param.png)
 
 #### Logarithm of Training and Testing Error
 ![Log Training and Testing Error](images/train_test_error_log.png)
