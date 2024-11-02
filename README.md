@@ -1,6 +1,6 @@
 # Polynomial Regression with Regularization
 
-This project implements ** Closed form polynomial ** regression with regularization using Python. The main focus is on generating synthetic polynomial data, fitting polynomial models with varying degrees and regularization parameters, and visualizing the results.
+This project implements **Closed form polynomial regression with regularization** using Python. The main focus is on generating synthetic polynomial data, fitting polynomial models with varying degrees and regularization parameters, and visualizing the results.
 
 ## Features
 
